@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-class Persoana():
+print("Aici incepe")
+cilass Persoana():
 
 	nr_persoane = 0
 
